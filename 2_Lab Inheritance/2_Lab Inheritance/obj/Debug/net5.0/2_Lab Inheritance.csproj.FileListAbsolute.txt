@@ -1,0 +1,36 @@
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.exe
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.deps.json
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.runtimeconfig.json
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.runtimeconfig.dev.json
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.dll
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\ref\2_Lab Inheritance.dll
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.pdb
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.AssemblyReference.cache
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.AssemblyInfoInputs.cache
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.AssemblyInfo.cs
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.CopyComplete
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.dll
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\ref\2_Lab Inheritance.dll
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.pdb
+C:\Users\amoussa\source\repos\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.genruntimeconfig.cache
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.exe
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.deps.json
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.runtimeconfig.json
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.runtimeconfig.dev.json
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.dll
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\2_Lab Inheritance.pdb
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\bin\Debug\net5.0\nunit.framework.dll
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.AssemblyReference.cache
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.AssemblyInfoInputs.cache
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.AssemblyInfo.cs
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.CoreCompileInputs.cache
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.csproj.CopyComplete
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.dll
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\refint\2_Lab Inheritance.dll
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.pdb
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\2_Lab Inheritance.genruntimeconfig.cache
+C:\Solution\Lab Inheritance_Solution\2_Lab Inheritance\2_Lab Inheritance\obj\Debug\net5.0\ref\2_Lab Inheritance.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oK5A82LHskk44pnV4AL1dMj5kwvTNSkyfXS6bSOZq0QYezqeA50YePzfw7tiWgdaDuFGttYvsNkLTAUrs6+tiA==",
+  "success": true,
+  "projectFilePath": "C:\\Solution\\Lab Inheritance_Solution\\2_Lab Inheritance\\2_Lab Inheritance\\2_Lab Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harkaur.ACDM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\harkaur.ACDM\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\harkaur.ACDM\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
